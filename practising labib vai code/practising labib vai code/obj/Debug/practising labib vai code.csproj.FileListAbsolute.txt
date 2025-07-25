@@ -1,0 +1,7 @@
+D:\c# all project\practising labib vai code\practising labib vai code\bin\Debug\practising labib vai code.exe.config
+D:\c# all project\practising labib vai code\practising labib vai code\bin\Debug\practising labib vai code.exe
+D:\c# all project\practising labib vai code\practising labib vai code\bin\Debug\practising labib vai code.pdb
+D:\c# all project\practising labib vai code\practising labib vai code\obj\Debug\practising labib vai code.csproj.AssemblyReference.cache
+D:\c# all project\practising labib vai code\practising labib vai code\obj\Debug\practising labib vai code.csproj.CoreCompileInputs.cache
+D:\c# all project\practising labib vai code\practising labib vai code\obj\Debug\practising labib vai code.exe
+D:\c# all project\practising labib vai code\practising labib vai code\obj\Debug\practising labib vai code.pdb

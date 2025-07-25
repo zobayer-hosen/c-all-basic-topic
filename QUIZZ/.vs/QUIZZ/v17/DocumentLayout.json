@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# all project\\QUIZZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DEB01E-4331-43B2-B299-DA4094592028}|QUIZZ.csproj|d:\\c# all project\\quizz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DEB01E-4331-43B2-B299-DA4094592028}|QUIZZ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DEB01E-4331-43B2-B299-DA4094592028}|QUIZZ.csproj|d:\\c# all project\\quizz\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DEB01E-4331-43B2-B299-DA4094592028}|QUIZZ.csproj|solutionrelative:citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DEB01E-4331-43B2-B299-DA4094592028}|QUIZZ.csproj|d:\\c# all project\\quizz\\passport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DEB01E-4331-43B2-B299-DA4094592028}|QUIZZ.csproj|solutionrelative:passport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DEB01E-4331-43B2-B299-DA4094592028}|QUIZZ.csproj|d:\\c# all project\\quizz\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DEB01E-4331-43B2-B299-DA4094592028}|QUIZZ.csproj|solutionrelative:address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DEB01E-4331-43B2-B299-DA4094592028}|QUIZZ.csproj|d:\\c# all project\\quizz\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DEB01E-4331-43B2-B299-DA4094592028}|QUIZZ.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "D:\\c# all project\\QUIZZ\\Citizen.cs",
+              "RelativeDocumentMoniker": "Citizen.cs",
+              "ToolTip": "D:\\c# all project\\QUIZZ\\Citizen.cs",
+              "RelativeToolTip": "Citizen.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:01:12.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Passport.cs",
+              "DocumentMoniker": "D:\\c# all project\\QUIZZ\\Passport.cs",
+              "RelativeDocumentMoniker": "Passport.cs",
+              "ToolTip": "D:\\c# all project\\QUIZZ\\Passport.cs",
+              "RelativeToolTip": "Passport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:00:50.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\c# all project\\QUIZZ\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\c# all project\\QUIZZ\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:05:21.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\c# all project\\QUIZZ\\Address.cs",
+              "RelativeDocumentMoniker": "Address.cs",
+              "ToolTip": "D:\\c# all project\\QUIZZ\\Address.cs",
+              "RelativeToolTip": "Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:58:17.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# all project\\QUIZZ\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\c# all project\\QUIZZ\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAFUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:13:24.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

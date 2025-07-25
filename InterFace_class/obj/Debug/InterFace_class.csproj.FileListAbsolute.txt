@@ -1,0 +1,7 @@
+D:\c# all project\InterFace_class\bin\Debug\InterFace_class.exe.config
+D:\c# all project\InterFace_class\bin\Debug\InterFace_class.exe
+D:\c# all project\InterFace_class\bin\Debug\InterFace_class.pdb
+D:\c# all project\InterFace_class\obj\Debug\InterFace_class.csproj.AssemblyReference.cache
+D:\c# all project\InterFace_class\obj\Debug\InterFace_class.csproj.CoreCompileInputs.cache
+D:\c# all project\InterFace_class\obj\Debug\InterFace_class.exe
+D:\c# all project\InterFace_class\obj\Debug\InterFace_class.pdb

@@ -1,0 +1,7 @@
+D:\c# all project\readonly\readonly\bin\Debug\@readonly.exe.config
+D:\c# all project\readonly\readonly\bin\Debug\@readonly.exe
+D:\c# all project\readonly\readonly\bin\Debug\@readonly.pdb
+D:\c# all project\readonly\readonly\obj\Debug\readonly.csproj.AssemblyReference.cache
+D:\c# all project\readonly\readonly\obj\Debug\readonly.csproj.CoreCompileInputs.cache
+D:\c# all project\readonly\readonly\obj\Debug\@readonly.exe
+D:\c# all project\readonly\readonly\obj\Debug\@readonly.pdb

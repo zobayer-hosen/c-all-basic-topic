@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# all project\\Enums\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDADE98-CFBF-47FB-A414-9B7D953514F8}|Enums\\Enums.csproj|d:\\c# all project\\enums\\enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDADE98-CFBF-47FB-A414-9B7D953514F8}|Enums\\Enums.csproj|solutionrelative:enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDADE98-CFBF-47FB-A414-9B7D953514F8}|Enums\\Enums.csproj|D:\\c# all project\\Enums\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDADE98-CFBF-47FB-A414-9B7D953514F8}|Enums\\Enums.csproj|solutionrelative:enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "D:\\c# all project\\Enums\\Enums\\Enums.cs",
+              "RelativeDocumentMoniker": "Enums\\Enums.cs",
+              "ToolTip": "D:\\c# all project\\Enums\\Enums\\Enums.cs",
+              "RelativeToolTip": "Enums\\Enums.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:00:50.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# all project\\Enums\\Enums\\Program.cs",
+              "RelativeDocumentMoniker": "Enums\\Program.cs",
+              "ToolTip": "D:\\c# all project\\Enums\\Enums\\Program.cs",
+              "RelativeToolTip": "Enums\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:37:53.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

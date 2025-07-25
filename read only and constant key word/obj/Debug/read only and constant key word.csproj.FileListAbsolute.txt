@@ -1,0 +1,7 @@
+D:\c# all project\read only and constant key word\bin\Debug\read only and constant key word.exe.config
+D:\c# all project\read only and constant key word\bin\Debug\read only and constant key word.exe
+D:\c# all project\read only and constant key word\bin\Debug\read only and constant key word.pdb
+D:\c# all project\read only and constant key word\obj\Debug\read only and constant key word.csproj.AssemblyReference.cache
+D:\c# all project\read only and constant key word\obj\Debug\read only and constant key word.csproj.CoreCompileInputs.cache
+D:\c# all project\read only and constant key word\obj\Debug\read only and constant key word.exe
+D:\c# all project\read only and constant key word\obj\Debug\read only and constant key word.pdb

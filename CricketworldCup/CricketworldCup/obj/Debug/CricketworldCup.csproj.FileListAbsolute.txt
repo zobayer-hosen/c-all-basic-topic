@@ -1,0 +1,7 @@
+D:\c# all project\CricketworldCup\CricketworldCup\obj\Debug\CricketworldCup.csproj.AssemblyReference.cache
+D:\c# all project\CricketworldCup\CricketworldCup\obj\Debug\CricketworldCup.csproj.CoreCompileInputs.cache
+D:\c# all project\CricketworldCup\CricketworldCup\bin\Debug\CricketworldCup.exe.config
+D:\c# all project\CricketworldCup\CricketworldCup\bin\Debug\CricketworldCup.exe
+D:\c# all project\CricketworldCup\CricketworldCup\bin\Debug\CricketworldCup.pdb
+D:\c# all project\CricketworldCup\CricketworldCup\obj\Debug\CricketworldCup.exe
+D:\c# all project\CricketworldCup\CricketworldCup\obj\Debug\CricketworldCup.pdb

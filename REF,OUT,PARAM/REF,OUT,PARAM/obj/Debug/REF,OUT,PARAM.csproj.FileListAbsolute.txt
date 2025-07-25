@@ -1,0 +1,7 @@
+D:\c# all project\REF,OUT,PARAM\REF,OUT,PARAM\obj\Debug\REF,OUT,PARAM.csproj.AssemblyReference.cache
+D:\c# all project\REF,OUT,PARAM\REF,OUT,PARAM\obj\Debug\REF,OUT,PARAM.csproj.CoreCompileInputs.cache
+D:\c# all project\REF,OUT,PARAM\REF,OUT,PARAM\bin\Debug\REF,OUT,PARAM.exe.config
+D:\c# all project\REF,OUT,PARAM\REF,OUT,PARAM\bin\Debug\REF,OUT,PARAM.exe
+D:\c# all project\REF,OUT,PARAM\REF,OUT,PARAM\bin\Debug\REF,OUT,PARAM.pdb
+D:\c# all project\REF,OUT,PARAM\REF,OUT,PARAM\obj\Debug\REF,OUT,PARAM.exe
+D:\c# all project\REF,OUT,PARAM\REF,OUT,PARAM\obj\Debug\REF,OUT,PARAM.pdb

@@ -1,0 +1,7 @@
+D:\c# all project\SENARIO\bin\Debug\SENARIO.exe.config
+D:\c# all project\SENARIO\bin\Debug\SENARIO.exe
+D:\c# all project\SENARIO\bin\Debug\SENARIO.pdb
+D:\c# all project\SENARIO\obj\Debug\SENARIO.csproj.AssemblyReference.cache
+D:\c# all project\SENARIO\obj\Debug\SENARIO.csproj.CoreCompileInputs.cache
+D:\c# all project\SENARIO\obj\Debug\SENARIO.exe
+D:\c# all project\SENARIO\obj\Debug\SENARIO.pdb

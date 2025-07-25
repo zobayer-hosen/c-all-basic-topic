@@ -1,0 +1,7 @@
+D:\c# all project\bank accont management system\bank accont management system\obj\Debug\bank accont management system.csproj.AssemblyReference.cache
+D:\c# all project\bank accont management system\bank accont management system\obj\Debug\bank accont management system.csproj.CoreCompileInputs.cache
+D:\c# all project\bank accont management system\bank accont management system\bin\Debug\bank accont management system.exe.config
+D:\c# all project\bank accont management system\bank accont management system\bin\Debug\bank accont management system.exe
+D:\c# all project\bank accont management system\bank accont management system\bin\Debug\bank accont management system.pdb
+D:\c# all project\bank accont management system\bank accont management system\obj\Debug\bank accont management system.exe
+D:\c# all project\bank accont management system\bank accont management system\obj\Debug\bank accont management system.pdb

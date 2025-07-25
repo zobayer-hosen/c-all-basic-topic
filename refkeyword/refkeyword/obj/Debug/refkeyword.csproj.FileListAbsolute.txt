@@ -1,0 +1,7 @@
+D:\c# all project\refkeyword\refkeyword\bin\Debug\refkeyword.exe.config
+D:\c# all project\refkeyword\refkeyword\bin\Debug\refkeyword.exe
+D:\c# all project\refkeyword\refkeyword\bin\Debug\refkeyword.pdb
+D:\c# all project\refkeyword\refkeyword\obj\Debug\refkeyword.csproj.AssemblyReference.cache
+D:\c# all project\refkeyword\refkeyword\obj\Debug\refkeyword.csproj.CoreCompileInputs.cache
+D:\c# all project\refkeyword\refkeyword\obj\Debug\refkeyword.exe
+D:\c# all project\refkeyword\refkeyword\obj\Debug\refkeyword.pdb

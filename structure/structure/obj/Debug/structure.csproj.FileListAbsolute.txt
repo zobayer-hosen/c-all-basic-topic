@@ -1,0 +1,7 @@
+D:\c# all project\structure\structure\bin\Debug\structure.exe.config
+D:\c# all project\structure\structure\bin\Debug\structure.exe
+D:\c# all project\structure\structure\bin\Debug\structure.pdb
+D:\c# all project\structure\structure\obj\Debug\structure.csproj.AssemblyReference.cache
+D:\c# all project\structure\structure\obj\Debug\structure.csproj.CoreCompileInputs.cache
+D:\c# all project\structure\structure\obj\Debug\structure.exe
+D:\c# all project\structure\structure\obj\Debug\structure.pdb

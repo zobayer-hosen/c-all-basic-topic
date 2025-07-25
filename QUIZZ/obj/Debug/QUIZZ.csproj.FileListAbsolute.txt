@@ -1,0 +1,7 @@
+D:\c# all project\QUIZZ\bin\Debug\QUIZZ.exe.config
+D:\c# all project\QUIZZ\bin\Debug\QUIZZ.exe
+D:\c# all project\QUIZZ\bin\Debug\QUIZZ.pdb
+D:\c# all project\QUIZZ\obj\Debug\QUIZZ.csproj.AssemblyReference.cache
+D:\c# all project\QUIZZ\obj\Debug\QUIZZ.csproj.CoreCompileInputs.cache
+D:\c# all project\QUIZZ\obj\Debug\QUIZZ.exe
+D:\c# all project\QUIZZ\obj\Debug\QUIZZ.pdb

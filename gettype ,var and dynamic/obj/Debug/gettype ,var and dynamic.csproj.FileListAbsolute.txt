@@ -1,0 +1,7 @@
+D:\c# all project\gettype ,var and dynamic\bin\Debug\gettype ,var and dynamic.exe.config
+D:\c# all project\gettype ,var and dynamic\bin\Debug\gettype ,var and dynamic.exe
+D:\c# all project\gettype ,var and dynamic\bin\Debug\gettype ,var and dynamic.pdb
+D:\c# all project\gettype ,var and dynamic\obj\Debug\gettype ,var and dynamic.csproj.AssemblyReference.cache
+D:\c# all project\gettype ,var and dynamic\obj\Debug\gettype ,var and dynamic.csproj.CoreCompileInputs.cache
+D:\c# all project\gettype ,var and dynamic\obj\Debug\gettype ,var and dynamic.exe
+D:\c# all project\gettype ,var and dynamic\obj\Debug\gettype ,var and dynamic.pdb

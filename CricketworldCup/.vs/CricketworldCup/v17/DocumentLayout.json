@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# all project\\CricketworldCup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB41022B-6A1F-4787-B983-9A89CBA2F19F}|CricketworldCup\\CricketworldCup.csproj|d:\\c# all project\\cricketworldcup\\cricketworldcup\\allrounder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB41022B-6A1F-4787-B983-9A89CBA2F19F}|CricketworldCup\\CricketworldCup.csproj|solutionrelative:cricketworldcup\\allrounder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB41022B-6A1F-4787-B983-9A89CBA2F19F}|CricketworldCup\\CricketworldCup.csproj|d:\\c# all project\\cricketworldcup\\cricketworldcup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB41022B-6A1F-4787-B983-9A89CBA2F19F}|CricketworldCup\\CricketworldCup.csproj|solutionrelative:cricketworldcup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB41022B-6A1F-4787-B983-9A89CBA2F19F}|CricketworldCup\\CricketworldCup.csproj|d:\\c# all project\\cricketworldcup\\cricketworldcup\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB41022B-6A1F-4787-B983-9A89CBA2F19F}|CricketworldCup\\CricketworldCup.csproj|solutionrelative:cricketworldcup\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB41022B-6A1F-4787-B983-9A89CBA2F19F}|CricketworldCup\\CricketworldCup.csproj|d:\\c# all project\\cricketworldcup\\cricketworldcup\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB41022B-6A1F-4787-B983-9A89CBA2F19F}|CricketworldCup\\CricketworldCup.csproj|solutionrelative:cricketworldcup\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB41022B-6A1F-4787-B983-9A89CBA2F19F}|CricketworldCup\\CricketworldCup.csproj|d:\\c# all project\\cricketworldcup\\cricketworldcup\\batsman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB41022B-6A1F-4787-B983-9A89CBA2F19F}|CricketworldCup\\CricketworldCup.csproj|solutionrelative:cricketworldcup\\batsman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllRounder.cs",
+              "DocumentMoniker": "D:\\c# all project\\CricketworldCup\\CricketworldCup\\AllRounder.cs",
+              "RelativeDocumentMoniker": "CricketworldCup\\AllRounder.cs",
+              "ToolTip": "D:\\c# all project\\CricketworldCup\\CricketworldCup\\AllRounder.cs",
+              "RelativeToolTip": "CricketworldCup\\AllRounder.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA6wBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T01:50:01.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\c# all project\\CricketworldCup\\CricketworldCup\\Player.cs",
+              "RelativeDocumentMoniker": "CricketworldCup\\Player.cs",
+              "ToolTip": "D:\\c# all project\\CricketworldCup\\CricketworldCup\\Player.cs",
+              "RelativeToolTip": "CricketworldCup\\Player.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwC0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T01:28:58.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "D:\\c# all project\\CricketworldCup\\CricketworldCup\\Bowler.cs",
+              "RelativeDocumentMoniker": "CricketworldCup\\Bowler.cs",
+              "ToolTip": "D:\\c# all project\\CricketworldCup\\CricketworldCup\\Bowler.cs",
+              "RelativeToolTip": "CricketworldCup\\Bowler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T01:28:06.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Batsman.cs",
+              "DocumentMoniker": "D:\\c# all project\\CricketworldCup\\CricketworldCup\\Batsman.cs",
+              "RelativeDocumentMoniker": "CricketworldCup\\Batsman.cs",
+              "ToolTip": "D:\\c# all project\\CricketworldCup\\CricketworldCup\\Batsman.cs",
+              "RelativeToolTip": "CricketworldCup\\Batsman.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T01:26:59.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# all project\\CricketworldCup\\CricketworldCup\\Program.cs",
+              "RelativeDocumentMoniker": "CricketworldCup\\Program.cs",
+              "ToolTip": "D:\\c# all project\\CricketworldCup\\CricketworldCup\\Program.cs",
+              "RelativeToolTip": "CricketworldCup\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA4wBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T17:13:24.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

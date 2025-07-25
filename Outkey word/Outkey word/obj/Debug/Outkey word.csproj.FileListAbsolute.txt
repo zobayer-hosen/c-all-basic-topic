@@ -1,0 +1,7 @@
+D:\c# all project\Outkey word\Outkey word\bin\Debug\Outkey word.exe.config
+D:\c# all project\Outkey word\Outkey word\bin\Debug\Outkey word.exe
+D:\c# all project\Outkey word\Outkey word\bin\Debug\Outkey word.pdb
+D:\c# all project\Outkey word\Outkey word\obj\Debug\Outkey word.csproj.AssemblyReference.cache
+D:\c# all project\Outkey word\Outkey word\obj\Debug\Outkey word.csproj.CoreCompileInputs.cache
+D:\c# all project\Outkey word\Outkey word\obj\Debug\Outkey word.exe
+D:\c# all project\Outkey word\Outkey word\obj\Debug\Outkey word.pdb

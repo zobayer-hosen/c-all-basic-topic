@@ -1,0 +1,7 @@
+D:\c# all project\accossiton\bin\Debug\accossiton.exe.config
+D:\c# all project\accossiton\bin\Debug\accossiton.exe
+D:\c# all project\accossiton\bin\Debug\accossiton.pdb
+D:\c# all project\accossiton\obj\Debug\accossiton.csproj.AssemblyReference.cache
+D:\c# all project\accossiton\obj\Debug\accossiton.csproj.CoreCompileInputs.cache
+D:\c# all project\accossiton\obj\Debug\accossiton.exe
+D:\c# all project\accossiton\obj\Debug\accossiton.pdb

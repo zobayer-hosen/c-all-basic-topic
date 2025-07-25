@@ -1,0 +1,7 @@
+D:\c# all project\OBE\OBE\bin\Debug\OBE.exe.config
+D:\c# all project\OBE\OBE\bin\Debug\OBE.exe
+D:\c# all project\OBE\OBE\bin\Debug\OBE.pdb
+D:\c# all project\OBE\OBE\obj\Debug\OBE.csproj.AssemblyReference.cache
+D:\c# all project\OBE\OBE\obj\Debug\OBE.csproj.CoreCompileInputs.cache
+D:\c# all project\OBE\OBE\obj\Debug\OBE.exe
+D:\c# all project\OBE\OBE\obj\Debug\OBE.pdb

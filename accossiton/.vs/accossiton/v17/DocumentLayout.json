@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# all project\\accossiton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3090B59-911A-417A-BABB-3E68DCABFE90}|accossiton.csproj|d:\\c# all project\\accossiton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3090B59-911A-417A-BABB-3E68DCABFE90}|accossiton.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3090B59-911A-417A-BABB-3E68DCABFE90}|accossiton.csproj|D:\\c# all project\\accossiton\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3090B59-911A-417A-BABB-3E68DCABFE90}|accossiton.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3090B59-911A-417A-BABB-3E68DCABFE90}|accossiton.csproj|D:\\c# all project\\accossiton\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3090B59-911A-417A-BABB-3E68DCABFE90}|accossiton.csproj|solutionrelative:university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3090B59-911A-417A-BABB-3E68DCABFE90}|accossiton.csproj|D:\\c# all project\\accossiton\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3090B59-911A-417A-BABB-3E68DCABFE90}|accossiton.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3090B59-911A-417A-BABB-3E68DCABFE90}|accossiton.csproj|D:\\c# all project\\accossiton\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3090B59-911A-417A-BABB-3E68DCABFE90}|accossiton.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "University.cs",
+              "DocumentMoniker": "D:\\c# all project\\accossiton\\University.cs",
+              "RelativeDocumentMoniker": "University.cs",
+              "ToolTip": "D:\\c# all project\\accossiton\\University.cs",
+              "RelativeToolTip": "University.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:17:57.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student.cs",
+              "DocumentMoniker": "D:\\c# all project\\accossiton\\student.cs",
+              "RelativeDocumentMoniker": "student.cs",
+              "ToolTip": "D:\\c# all project\\accossiton\\student.cs",
+              "RelativeToolTip": "student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:12:47.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\c# all project\\accossiton\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\c# all project\\accossiton\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:48:24.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\c# all project\\accossiton\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "D:\\c# all project\\accossiton\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:40:45.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# all project\\accossiton\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\c# all project\\accossiton\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:29:34.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

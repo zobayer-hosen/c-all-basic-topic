@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# all project\\Elecronic device\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F76A3E2-545C-48DD-BD16-06AA0A6AE15B}|Elecronic device\\Elecronic device.csproj|d:\\c# all project\\elecronic device\\elecronic device\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F76A3E2-545C-48DD-BD16-06AA0A6AE15B}|Elecronic device\\Elecronic device.csproj|solutionrelative:elecronic device\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F76A3E2-545C-48DD-BD16-06AA0A6AE15B}|Elecronic device\\Elecronic device.csproj|d:\\c# all project\\elecronic device\\elecronic device\\enternalativities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F76A3E2-545C-48DD-BD16-06AA0A6AE15B}|Elecronic device\\Elecronic device.csproj|solutionrelative:elecronic device\\enternalativities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F76A3E2-545C-48DD-BD16-06AA0A6AE15B}|Elecronic device\\Elecronic device.csproj|d:\\c# all project\\elecronic device\\elecronic device\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F76A3E2-545C-48DD-BD16-06AA0A6AE15B}|Elecronic device\\Elecronic device.csproj|solutionrelative:elecronic device\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnternalAtivities.cs",
+              "DocumentMoniker": "D:\\c# all project\\Elecronic device\\Elecronic device\\EnternalAtivities.cs",
+              "RelativeDocumentMoniker": "Elecronic device\\EnternalAtivities.cs",
+              "ToolTip": "D:\\c# all project\\Elecronic device\\Elecronic device\\EnternalAtivities.cs",
+              "RelativeToolTip": "Elecronic device\\EnternalAtivities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:02:52.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "computer.cs",
+              "DocumentMoniker": "D:\\c# all project\\Elecronic device\\Elecronic device\\computer.cs",
+              "RelativeDocumentMoniker": "Elecronic device\\computer.cs",
+              "ToolTip": "D:\\c# all project\\Elecronic device\\Elecronic device\\computer.cs*",
+              "RelativeToolTip": "Elecronic device\\computer.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:02:17.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# all project\\Elecronic device\\Elecronic device\\Program.cs",
+              "RelativeDocumentMoniker": "Elecronic device\\Program.cs",
+              "ToolTip": "D:\\c# all project\\Elecronic device\\Elecronic device\\Program.cs",
+              "RelativeToolTip": "Elecronic device\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:01:42.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\c# all project\params\params\bin\Debug\@params.exe.config
+D:\c# all project\params\params\bin\Debug\@params.exe
+D:\c# all project\params\params\bin\Debug\@params.pdb
+D:\c# all project\params\params\obj\Debug\params.csproj.AssemblyReference.cache
+D:\c# all project\params\params\obj\Debug\params.csproj.CoreCompileInputs.cache
+D:\c# all project\params\params\obj\Debug\@params.exe
+D:\c# all project\params\params\obj\Debug\@params.pdb
