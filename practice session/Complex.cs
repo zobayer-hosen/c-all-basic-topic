@@ -13,7 +13,7 @@ namespace practice_session
             Circle,
             Square
         }
-        public void peri(int val,Shapes shape)
+        public void Peri(int val,Shapes shape)
         {
             if (shape == Shapes.Circle)
             {
